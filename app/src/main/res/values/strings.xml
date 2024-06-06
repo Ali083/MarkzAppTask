@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Markz App Task</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="profile">Profile</string>
+    <string name="orders">Orders</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="do_you_want_to_exit">Do you want to exit !</string>
+    <string name="confirm_exit">Confirm Exit</string>
+    <string name="markaz">Markaz</string>
+    <string name="women">Women</string>
+    <string name="marque">Welcome to MarkzApp! Discover the best deals and amazing products today! Don\'t miss out on our special offers and discounts. Download now and start shopping!</string>
+    <string name="nds">2 offers are available for you!</string>
+    <string name="eid_dawat_delights">Eid Dawat Delights</string>
+</resources>
